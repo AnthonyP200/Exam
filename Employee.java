@@ -32,6 +32,10 @@ public class Employee{
     public boolean canDrive(){
         int age = calculateAge(2025);
         // to be completed
+        Public boolean candrive(){
+            int age = calculateage(2025);
+            get age =
+        }
     }
 
     /*
@@ -39,6 +43,15 @@ public class Employee{
      */
     private double calculatePay(){
         // to be completed
+        Private double calculatePay(){
+            intPay = calculatePat();
+            get hourlywage();
+            get hours worked();
+            get total();
+            set tax();
+            get pay();
+        }
+        }
     }
 
     /*
@@ -46,5 +59,10 @@ public class Employee{
      */
     public void paySalary(){
         // to be completed
+        Public void paySalary(){
+            print "Full.name has received a wire transfer of 70 CAD";
+            unpaid hours = amount reset (0);
+            
+        }
     }
 }
